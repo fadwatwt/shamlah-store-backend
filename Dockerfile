@@ -1,0 +1,1 @@
+FROM saleor/saleor:3.19
