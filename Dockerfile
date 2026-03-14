@@ -1,1 +1,1 @@
-FROM saleor/saleor:latest
+FROM ghcr.io/saleor/saleor:3.22
