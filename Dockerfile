@@ -1,1 +1,1 @@
-FROM saleor/saleor:3.19
+FROM saleor/saleor:latest
