@@ -2,7 +2,7 @@ FROM ghcr.io/saleor/saleor:3.19.0
 
 ENV PYTHONUNBUFFERED=1
 
-EXPOSE 8000
+EXPOSE 10000
 
 # أضفنا --noinput لكي لا يتوقف الأمر بانتظار إدخال يدوي
 # وأضفنا || true لكي لا يتوقف السيرفر إذا كان المستخدم موجوداً مسبقاً
