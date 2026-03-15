@@ -1,5 +1,5 @@
 # استخدام النسخة التي حددتها
-FROM saleor/saleor:3.22
+FROM saleor/saleor:3.19
 
 # إعداد متغيرات البيئة لضمان عدم توقف بايثون عند الطباعة
 ENV PYTHONUNBUFFERED=1
